@@ -13,7 +13,14 @@ Original [script](https://github.com/ZherebtsovAlexandr/object-oriented-robot/bl
 
 `java -classpath path_to_jdepend_jar/jdepend-2.9.1.jar jdepend.swingui.JDepend path_to_sample_jar`
 
+Result
+
+![Result](https://github.com/ZherebtsovAlexandr/Object-oriented-robot/blob/master/images/Screenshot-JDepend.png)
+
+
 ###repo in progress..
+
+
 
 # Links
 
